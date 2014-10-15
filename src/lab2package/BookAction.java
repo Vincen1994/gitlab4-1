@@ -9,10 +9,10 @@ import java.util.List;
 import lab2package.Book;
 
 import com.opensymphony.xwork2.ActionSupport;
-
+//this is a new change!!!
 
 public  class BookAction extends ActionSupport {
-	
+
    private String Title;
    private List<Book> booklist = new ArrayList<Book>();
 
@@ -68,7 +68,7 @@ public  class BookAction extends ActionSupport {
    public String getTitle() {
       return Title;
    }
-   
+
    public List<Book> getBooklist() {
 		return booklist;
    }

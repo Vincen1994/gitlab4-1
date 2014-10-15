@@ -11,4 +11,5 @@
             <result name="error">/error.jsp</result> 
         </action> 
     </package> 
-</struts>
+</struts>这是B几的改动来着？！
+

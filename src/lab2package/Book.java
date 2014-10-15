@@ -58,5 +58,5 @@ public class Book {
 	  public void setPrice(String Price) {
 	      this.Price = Price;
 	   }
-
+//哈哈改用中文！！！！
 }

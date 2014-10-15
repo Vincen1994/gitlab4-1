@@ -1,5 +1,5 @@
 package lab2package;
-//why are you so diao?
+//ÎÒ»¹ÊÇÏ²»¶SC¡«
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
@@ -12,7 +12,7 @@ import com.opensymphony.xwork2.ActionSupport;
 
 
 public  class BookAction extends ActionSupport {
-	
+
    private String Title;
    private List<Book> booklist = new ArrayList<Book>();
 
@@ -68,7 +68,7 @@ public  class BookAction extends ActionSupport {
    public String getTitle() {
       return Title;
    }
-   
+
    public List<Book> getBooklist() {
 		return booklist;
    }

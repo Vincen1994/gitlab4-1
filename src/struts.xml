@@ -11,5 +11,12 @@
             <result name="error">/error.jsp</result> 
         </action> 
     </package> 
-</struts>这是B几的改动来着？！
+<<<<<<< HEAD
+</struts>
+这是B几的改动来着？！
+=======
+</struts>
 
+
+<struts>
+>>>>>>> C4

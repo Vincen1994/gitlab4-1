@@ -1,7 +1,7 @@
 package lab2package;
 
 public class Author {
-//this program has been changed.
+//En Taro Tessadar!
 	private String APK;
 	private String NAME;
 	private String AGE;
